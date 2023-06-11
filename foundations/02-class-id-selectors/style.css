@@ -1,0 +1,21 @@
+.pink{
+    background-color: pink;
+    font-size: 32px;
+    font-family: Verdana, sans-serif;
+}
+
+.pink.fontresize{
+    font-size: 50px;
+}
+
+#two{
+    font-size: 65px;
+    color: blue;
+}
+
+
+#four{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgb(129, 246, 129);
+}
