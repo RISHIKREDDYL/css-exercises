@@ -1,0 +1,10 @@
+div .text{
+    color: red;
+    background-color: yellow;
+    font-size: 45px;
+    text-align: center;
+}
+
+.text{
+    font-size: 30px;
+}
